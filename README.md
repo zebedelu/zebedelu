@@ -1,6 +1,6 @@
 # About Me
-👋 Hi, I’m @pedro961247, but you can also call me Zebedelu (Zeb).  
-I'm from Brazil, and I'm passionate about programming and technology!  
+👋 Hi, I’m @pedro961247, but you can also call me zeb.  
+I'm from Brazil, and I'm passionate about programming and technology.
 
 I began studying programming in 2021, and I officially started building my GitHub in 2024 to share my projects and ideas with the world.  
 
@@ -16,6 +16,11 @@ Additionally, I have strong expertise in technologies such as **Flask**, **sklea
 
 - **Brazil - UFFS**: Certificate of participation in a science fair.  
   🏅 Our team received a grade of **8.27** for our project.
+
+---
+
+## 🚀 Actually
+I'm studying in IFC - Santa Catarina
 
 ---
 
