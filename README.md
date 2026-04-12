@@ -1,7 +1,7 @@
-<h1 align="center">Olá, Eu sou zebedelu</h1>
+<h1 align="center">Olá, Eu sou Pedro Vinicius</h1>
 
 <p align="center">
-  Estudante de Técnico em Informática no IFC Campus Concórdia
+  Atualmente estudante do Técnico em Informática no IFC - Campus Concórdia
 </p>
 
 <p align="center">
