@@ -45,6 +45,13 @@ Essas experiências fortaleceram minha capacidade de resolver problemas e desenv
   <img src="https://img.shields.io/badge/❤️_Lovable-ff69b4?style=flat-square">
 </p>
 
+## Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zebedelu&show_icons=true&theme=dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zebedelu&layout=compact&theme=dark" height="170"/>
+</p>
+
 ## Interesses
 
 - Desenvolvimento back-end com Python
