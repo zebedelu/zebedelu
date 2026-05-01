@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+Pedro+Vinicius+%F0%9F%91%8B;Estudante+de+T%C3%A9cnico+em+Inform%C3%A1tica" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+Pedro+Vinicius+%F0%9F%91%8B;Estudante+de+TI+no+IFC" alt="Typing SVG" />
   <h3>Construindo soluções com código limpo e lógica afiada</h3>
   <img src="https://capsule-render.vercel.app/api?type=soft&color=00D4FF&height=180&section=header&text=zebedelu&fontSize=60&fontColor=0A0A0A&animation=fadeIn" alt="Banner" width="100%"/>
 </div>
