@@ -36,6 +36,16 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 </p>
 
+## Áreas de Interesse
+
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FFFFFF?style=for-the-badge&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
+  <img src="https://img.shields.io/badge/GGUF-000000?style=for-the-badge&logo=ollama&logoColor=white">
+  <img src="https://img.shields.io/badge/∑ Hard Mathematics-990000?style=for-the-badge&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=arch-linux&logoColor=white">
+</p>
 
 ## Estatísticas
 
