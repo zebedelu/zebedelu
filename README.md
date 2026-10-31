@@ -22,10 +22,9 @@
 <table>
   <tr>
     <td valign="middle">
-      <img src="https://campo-facil.vercel.app/favicon.ico" width="25" alt="Logo do CampoFacil">
     </td>
     <td valign="middle">
-      <a href="https://campo-facil.vercel.app"><strong>CampoFacil</strong></a> — App completo de gestão empresarial
+      <a href=""><strong>CampoFacil</strong></a> — App completo de gestão empresarial (Atualmente pausado)
     </td>
   </tr>
   <tr>
@@ -34,6 +33,14 @@
     </td>
     <td valign="middle">
       <a href="https://studiohcachos.com.br"><strong>StudioH</strong></a> — Site de uma barbearia famosa de Capinzal 
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <img src="https://mineseedfinder.com/favicon.ico" width="25" alt="Logo do MineSeedFinder">
+    </td>
+    <td valign="middle">
+      <a href="https://mineseedfinder.com"><strong>MineSeedFinder</strong></a> — Ferramentas de ponta para o Minecraft Java (Cracking de Seed) 
     </td>
   </tr>
 </table>
