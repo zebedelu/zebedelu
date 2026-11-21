@@ -17,7 +17,7 @@
 * 🔬 **XV MIC / VI SEPE 2025** — participação na Mostra de Iniciação Científica do IFC Campus Concórdia
 * 🤖 **Robótica** — curso prático presencial com **36 horas de duração**
 
-## Meus Principais Trabalhos de Sucesso
+## Meus Principais Trabalhos
 
 <table>
   <tr>
@@ -41,6 +41,14 @@
     </td>
     <td valign="middle">
       <a href="https://mineseedfinder.com"><strong>MineSeedFinder</strong></a> — Ferramentas de ponta para o Minecraft Java (Cracking de Seed) 
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <img src="http://sig.ifc.edu.br/favicon.ico" width="25" alt="Logo do SIGAAutils (extensão para o https://sig.ifc.edu.br/">
+    </td>
+    <td valign="middle">
+      <a href="https://github.com/zebedelu/SIGAAutils/"><strong>SIGAAutils</strong></a> — Extensão de navegador para o Sistema Acâdemico do meu Campus
     </td>
   </tr>
 </table>
